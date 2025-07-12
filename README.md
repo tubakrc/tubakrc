@@ -36,6 +36,5 @@ I'm passionate about transforming raw data into meaningful insights and building
 ---
 
 ## 📫 Let’s Connect
-
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/tubakirca/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tubakirca/)
 - 📧 Email: tubakirca@gmail.com
