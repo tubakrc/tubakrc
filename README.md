@@ -25,7 +25,8 @@ I'm passionate about transforming raw data into meaningful insights and building
 | Project | Description |
 |--------|-------------|
 | [Olist E-commerce Dashboard](https://github.com/tubakrc/Power_BI_Projects_2) | Sales Dashboard |
-| [AdventureWorks BI Dashboard](https://github.com/tubakrc/Power_BI_Projects_1) | A dynamic Power BI dashboard to track KPIs, compare regional performance, analyze product trends, and identify high-value customers |
+| [AdventureWorks BI Dashboard](https://github.com/tubakrc/Power_BI_Projects_1) | Power BI dashboard to track KPIs and uncover key customer and product insights |
+
 
 
 ---
