@@ -15,7 +15,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 | [Weight_Wise App](https://github.com/tubakrc/Data_Science_Projects_5) | Estimate obesity levels using multiclass classification algorithms |
 | [New Year's Resolutions Project](https://github.com/tubakrc/Data_Science_Projects_4) | Twitter Resolution Analysis |
 | [Holiday Events Analysis](https://github.com/tubakrc/Data_Science_Projects_3) | Walmart Sales Prediction |
-| [Credit Card Fraud](https://github.com/tubakrc/Data_Science_Projects_2) | Anomaly Detection |
+| [Credit Card Fraud Project](https://github.com/tubakrc/Data_Science_Projects_2) | Anomaly Detection |
 | [Churn Prediction Project](https://github.com/tubakrc/Data_Science_Projects_1) | Bank Customer Churn Prediction |
 
 ---
