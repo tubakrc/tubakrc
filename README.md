@@ -13,6 +13,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 | Project | Description |
 |--------|-------------|
 | [Weight_Wise App](https://github.com/tubakrc/Data_Science_Projects_5) | Estimate obesity levels using multiclass classification algorithms |
+| [AI Research Assistant](https://github.com/tubakrc/AIResearchAssistant) | A smart AI-powered research assistant that searches, summarizes, and saves findings — all in one click. |
 | [New Year's Resolutions Project](https://github.com/tubakrc/Data_Science_Projects_4) | Twitter Resolution Analysis |
 | [Holiday Events Analysis](https://github.com/tubakrc/Data_Science_Projects_3) | Walmart Sales Prediction |
 | [Credit Card Fraud Project](https://github.com/tubakrc/Data_Science_Projects_2) | Anomaly Detection |
