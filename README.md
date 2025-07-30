@@ -33,7 +33,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 ---
 
 ## 🛠️ Tech Stack
-`Python` · `Power BI` · `Pandas` · `Scikit-learn` · `SQL` · `Streamlit` · `Git`· `AI` · `LLM`· `LangChain` · `CrewAI`
+`Python` · `Power BI` · `Pandas` · `Scikit-learn` · `SQL` · `AI` · `LLM`· `LangChain` · `CrewAI`· `Streamlit` · `Git`
 
 ---
 
