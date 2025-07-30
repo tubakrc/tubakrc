@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tuba!
 
-Welcome to my GitHub profile — a space where I share my work in **Data Science** and **Business Intelligence**.
+Welcome to my GitHub profile — a space where I share my work in **Data Science & AI** and **Business Intelligence**.
 
 I'm passionate about transforming raw data into meaningful insights and building data products that support decision-making. My experience spans across building predictive models, real-time dashboards, and interactive analytics tools.
 
@@ -8,7 +8,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ---
 
-## 🤖 Data Science Projects
+## 🤖 Data Science & AI Projects
 
 | Project | Description |
 |--------|-------------|
